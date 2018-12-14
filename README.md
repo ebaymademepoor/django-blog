@@ -1,3 +1,5 @@
 # Django Blog Mini-Project
 
-A si9mple blog app written using django
+A simple blog app written using django
+
+[![Build Status](https://travis-ci.org/ebaymademepoor/django-blog.svg?branch=master)](https://travis-ci.org/ebaymademepoor/django-blog)
