@@ -32,7 +32,8 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-        "django-blog-ebaymademepoor.c9users.io"
+        "django-blog-ebaymademepoor.c9users.io",
+        "carlo-test-blog.herokuapp.com",
     ]
 
 
